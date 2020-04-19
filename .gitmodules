@@ -10,3 +10,6 @@
 [submodule "PaymentREST-API"]
 	path = PaymentREST-API
 	url = https://github.com/SuraMahesh/PaymentREST-API.git
+[submodule "Doctor-Management-Service"]
+	path = Doctor-Management-Service
+	url = https://github.com/madhumalipriyanwada/Doctor-Management-Service.git
