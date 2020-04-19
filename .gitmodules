@@ -1,0 +1,12 @@
+[submodule "HospitalManagement"]
+	path = HospitalManagement
+	url = https://github.com/dhanuja-prathapa/HospitalManagement.git
+[submodule "NewPatientManagement"]
+	path = NewPatientManagement
+	url = https://github.com/navogunawardhane97/NewPatientManagement.git
+[submodule "appointment-management"]
+	path = appointment-management
+	url = https://github.com/prabathwelivita/appointment-management.git
+[submodule "PaymentREST-API"]
+	path = PaymentREST-API
+	url = https://github.com/SuraMahesh/PaymentREST-API.git
